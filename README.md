@@ -30,8 +30,8 @@ Mobile Design
 
 ### Links
 
-- Solution URL: [Profile card component solution](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Profile card component solution](https://www.frontendmentor.io/solutions/profilecardcomponentmain-WNTU5KFHUJ)
+- Live Site URL: [Add live site URL here](https://jpbyte.github.io/profile-card-component-main/)
 
 ## My process
 
